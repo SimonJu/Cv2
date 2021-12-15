@@ -1,0 +1,47 @@
+body{
+	background-image: url(../images/img.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+h1{
+	color:#FF8243;
+	font-family: Tahoma;
+}
+#list1{
+	color:#D06224;
+	font-family: Tahoma;
+}
+#list2{
+	color:#D06224;
+	font-family: Tahoma;
+}
+#list3{
+	color:#71DFE7;
+	font-family:Tahoma;
+}
+
+#data1{
+	color:#FF9300;
+	font-family: Tahoma;
+}
+a{
+	color:#FF9300
+	font-family: Tahoma;
+}
+
+.red{
+	color:#D06224;
+	font-family: Tahoma;
+}
+.orange{
+	color:#FF9300;
+	font-family: Tahoma;
+}
+.lightblue{
+	color:#71DFE7;
+	font-family: Tahoma;
+}
+
+
+	
+
